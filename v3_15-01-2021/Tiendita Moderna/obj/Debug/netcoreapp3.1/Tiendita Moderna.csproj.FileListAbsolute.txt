@@ -1,0 +1,152 @@
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.exe
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.deps.json
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.runtimeconfig.json
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.runtimeconfig.dev.json
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.dll
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.pdb
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csprojAssemblyReference.cache
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Clientes.resources
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Empleados.resources
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Finanzas.resources
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Inventario.resources
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Login.resources
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Moderna.resources
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Pedidos.resources
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Proveedores.resources
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csproj.GenerateResource.cache
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.AssemblyInfoInputs.cache
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.AssemblyInfo.cs
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csproj.CoreCompileInputs.cache
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.dll
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.pdb
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.genruntimeconfig.cache
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csproj.CopyComplete
+C:\Users\ordal\Desktop\Proyecto BD\Proyecto\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Compras.resources
+C:\Users\Adan\source\repos\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.exe
+C:\Users\Adan\source\repos\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.deps.json
+C:\Users\Adan\source\repos\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.runtimeconfig.json
+C:\Users\Adan\source\repos\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.runtimeconfig.dev.json
+C:\Users\Adan\source\repos\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.dll
+C:\Users\Adan\source\repos\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.pdb
+C:\Users\Adan\source\repos\Tiendita Moderna\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Adan\source\repos\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Adan\source\repos\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Adan\source\repos\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Adan\source\repos\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adan\source\repos\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csprojAssemblyReference.cache
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Clientes.resources
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Compras.resources
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Empleados.resources
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Finanzas.resources
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Inventario.resources
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Login.resources
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Moderna.resources
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Pedidos.resources
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Proveedores.resources
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csproj.GenerateResource.cache
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.AssemblyInfoInputs.cache
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.AssemblyInfo.cs
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csproj.CoreCompileInputs.cache
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csproj.CopyComplete
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.dll
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.pdb
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.genruntimeconfig.cache
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.exe
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.deps.json
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.runtimeconfig.json
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.runtimeconfig.dev.json
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.pdb
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csprojAssemblyReference.cache
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Clientes.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Compras.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Empleados.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Finanzas.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Inventario.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Login.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Moderna.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Pedidos.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Proveedores.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csproj.GenerateResource.cache
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.AssemblyInfoInputs.cache
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.AssemblyInfo.cs
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csproj.CoreCompileInputs.cache
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csproj.CopyComplete
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.pdb
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna12-01-21v1\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.genruntimeconfig.cache
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.exe
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.deps.json
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.runtimeconfig.json
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.runtimeconfig.dev.json
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.pdb
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csprojAssemblyReference.cache
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Clientes.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Compras.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Empleados.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Finanzas.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Inventario.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Login.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Moderna.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Pedidos.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Proveedores.resources
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csproj.GenerateResource.cache
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.AssemblyInfoInputs.cache
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.AssemblyInfo.cs
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csproj.CoreCompileInputs.cache
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csproj.CopyComplete
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.dll
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.pdb
+C:\Users\ordal\Desktop\Proyecto BD\Tiendita Moderna13-01-21v1 (1)\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.genruntimeconfig.cache
+C:\Users\Adan\source\repos\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Historial.resources
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.exe
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.deps.json
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.runtimeconfig.json
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.runtimeconfig.dev.json
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.dll
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\bin\Debug\netcoreapp3.1\Tiendita Moderna.pdb
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csprojAssemblyReference.cache
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Clientes.resources
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Compras.resources
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Empleados.resources
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Finanzas.resources
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Historial.resources
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Inventario.resources
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Login.resources
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Moderna.resources
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Pedidos.resources
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita_Moderna.Proveedores.resources
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csproj.GenerateResource.cache
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.AssemblyInfoInputs.cache
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.AssemblyInfo.cs
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csproj.CoreCompileInputs.cache
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.csproj.CopyComplete
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.dll
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.pdb
+F:\Universidad\Septimo semestre\Base de Datos\Proyecto_tiendita\v3_15-01-2021\Tiendita Moderna\obj\Debug\netcoreapp3.1\Tiendita Moderna.genruntimeconfig.cache
